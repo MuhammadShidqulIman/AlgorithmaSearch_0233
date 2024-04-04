@@ -41,6 +41,7 @@ void LinearSearch()
         cin >> item;
 
         ctr = 0;
+        i = 0; // step 2
     }
 }
 
